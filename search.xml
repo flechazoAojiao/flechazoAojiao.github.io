@@ -4,6 +4,33 @@
   
     
     <entry>
+      <title>My New Post</title>
+      <link href="/2023/04/28/My-New-Post/"/>
+      <url>/2023/04/28/My-New-Post/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> 分类 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 标签1 </tag>
+            
+            <tag> 标签2 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>不良人图片</title>
       <link href="/2023/04/12/test-img/"/>
       <url>/2023/04/12/test-img/</url>
